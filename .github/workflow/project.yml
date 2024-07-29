@@ -19,6 +19,3 @@
                 with:
                 name: cypress-report
                 path: ./**/cypress/reports
-
-
-                //this is a project of new branch
