@@ -1,4 +1,4 @@
-    name: qa-practice-tests
+    name: project
     on:
         push:
         schedule:
